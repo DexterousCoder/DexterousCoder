@@ -1,5 +1,5 @@
 ### Hi there 👋, DexterousCoder 
-#### Dexterous Developer <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='15' height='13'></a> 
+#### Dexterous Developer 
 
 ![Dexterous Developer](https://media.licdn.com/dms/image/D4D16AQFXtHdlN6mUUA/profile-displaybackgroundimage-shrink_350_1400/0/1711460730690?e=1717027200&v=beta&t=kOsyFYvmSQnOgosQl2qqwFDBNXJGx0bFNVtYO9bBhGw)
 
