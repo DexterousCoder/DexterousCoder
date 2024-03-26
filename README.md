@@ -1,9 +1,10 @@
 ### Hi there 👋, DexterousCoder 
-#### Dexterous Developer
+#### Dexterous Developer <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='15' height='13'></a> 
+
 ![Dexterous Developer](https://media.licdn.com/dms/image/D4D16AQFXtHdlN6mUUA/profile-displaybackgroundimage-shrink_350_1400/0/1711460730690?e=1717027200&v=beta&t=kOsyFYvmSQnOgosQl2qqwFDBNXJGx0bFNVtYO9bBhGw)
 
-<h2 align="left">Hi 👋! My name is M_Talha Ashraf and I'm a Developer, from Pakistan. I do content on Development.
-I assuredly be keen on learning language like Python, Java, C# etc.</h2>
+<h3 align="left">Hi 👋! My name is M_Talha Ashraf and I'm a Developer, from Pakistan. I do content on Development.
+I assuredly be keen on learning language like Python, Java, C# etc.</h3>
 
  <h2><div align="left">Skills: 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
