@@ -1,7 +1,8 @@
 ### Hi there 👋, DexterousCoder 
 #### Dexterous Developer 
 
-![Dexterous Developer](https://media.licdn.com/dms/image/D4D16AQFXtHdlN6mUUA/profile-displaybackgroundimage-shrink_350_1400/0/1711460730690?e=1717027200&v=beta&t=kOsyFYvmSQnOgosQl2qqwFDBNXJGx0bFNVtYO9bBhGw)
+<img src="https://media.licdn.com/dms/image/D4D16AQFXtHdlN6mUUA/profile-displaybackgroundimage-shrink_350_1400/0/1711460730690?e=1725494400&v=beta&t=EbEgCq48GQ7keKYMdQyA0LSQzuq-BGoaUQnUveZE2RU">  
+<img/>
 
 <h3 align="left">Hi 👋! My name is M_Talha Ashraf and I'm a Developer, from Pakistan. I do content on Development.
 I assuredly be keen on learning language like Python, Java, C# etc.</h3>
